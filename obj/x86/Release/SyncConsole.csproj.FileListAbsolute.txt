@@ -1,0 +1,8 @@
+D:\Programs\Sync\SyncConsole\bin\Release\SyncConsole.exe
+D:\Programs\Sync\SyncConsole\bin\Release\SyncConsole.pdb
+D:\Programs\Sync\SyncConsole\obj\x86\Release\SyncConsole.FormMain.resources
+D:\Programs\Sync\SyncConsole\obj\x86\Release\SyncConsole.Properties.Resources.resources
+D:\Programs\Sync\SyncConsole\obj\x86\Release\SyncConsole.csproj.GenerateResource.Cache
+D:\Programs\Sync\SyncConsole\obj\x86\Release\SyncConsole.exe
+D:\Programs\Sync\SyncConsole\obj\x86\Release\SyncConsole.pdb
+D:\Programs\Sync\SyncConsole\obj\x86\Release\SyncConsole.csprojResolveAssemblyReference.cache
