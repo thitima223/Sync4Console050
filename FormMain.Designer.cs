@@ -26,6 +26,14 @@
         /// デザイナー サポートに必要なメソッドです。このメソッドの内容を
         /// コード エディターで変更しないでください。
         /// </summary>
+        /// 
+
+
+        
+
+
+
+
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
@@ -175,7 +183,7 @@
             this.MonitorPanel.Controls.Add(this.DataMonitor);
             this.MonitorPanel.Location = new System.Drawing.Point(645, 3);
             this.MonitorPanel.Name = "MonitorPanel";
-            this.MonitorPanel.Size = new System.Drawing.Size(284, 535);
+            this.MonitorPanel.Size = new System.Drawing.Size(600, 800); //284,535
             this.MonitorPanel.TabIndex = 36;
             // 
             // TempMonitorPanel
@@ -989,7 +997,7 @@
             this.DataMonitor.RowTemplate.ReadOnly = true;
             this.DataMonitor.RowTemplate.Resizable = System.Windows.Forms.DataGridViewTriState.False;
             this.DataMonitor.ScrollBars = System.Windows.Forms.ScrollBars.None;
-            this.DataMonitor.Size = new System.Drawing.Size(273, 110); //107 to 110 21(header) + 21*9(rows) = 210 if Height = 107px about 4-5 column (header ~21px + collum ~21px)
+            this.DataMonitor.Size = new System.Drawing.Size(273, 120); //107 to 110 21(header) + 21*9(rows) = 210 if Height = 107px about 4-5 column (header ~21px + collum ~21px)
             this.DataMonitor.TabIndex = 66;
             // 
             // Ch
@@ -1380,7 +1388,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(932, 561);
+            this.ClientSize = new System.Drawing.Size(960, 740);// fixed window size
             this.Controls.Add(this.PanelMonitor);
             this.Controls.Add(this.MonitorPanel);
             this.Controls.Add(this.StatusStrip);
